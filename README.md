@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iAsadPanhwar.iAsadPanhwar" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asad+Panhwar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muskan+Saleh!;" />
 </h1>
 
 <h3 align="center">A passionate Data Science Aspirant from Pakistan</h3>
@@ -37,9 +37,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ai,html,vscode,github,git,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,githubactions" /><br>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,flask,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=ai,vscode,github,anaconda,idea,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,git,html" /><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,mysql,mongodb,docker,kubernetes" /><br>
 </div>
 
 <br/>
